@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Battery Buddy</source>
-        <translation>Battery Buddy（电池搭档）</translation>
+        <translation>电池搭档</translation>
     </message>
     <message>
         <source>Author</source>
@@ -135,7 +135,7 @@ Buddy（电池搭档）</translation>
     </message>
     <message>
         <source>Use flight mode overnight whenever possible in order to cut power usage down. Powering the device off and on again may use a lot more battery than you think!</source>
-        <translation type="unfinished"></translation>
+        <translation>尽可能在夜间使用飞行模式。开关机可能比你想象的更耗电。</translation>
     </message>
 </context>
 <context>
@@ -177,7 +177,7 @@ Buddy（电池搭档）</translation>
     <message>
         <source>Background</source>
         <comment>More to read, background information...</comment>
-        <translation>更多阅读, 后台信息...</translation>
+        <translation>阅读更多背景信息</translation>
     </message>
     <message>
         <source>This is a test.</source>
@@ -237,7 +237,7 @@ Buddy（电池搭档）</translation>
     </message>
     <message>
         <source>Please leave Battery Buddy running in the background in order to receive alerts.</source>
-        <translation>请让Battery Buddy（电池搭档）在后台保持运行, 以便接收警报。</translation>
+        <translation>请让 Battery Buddy（电池搭档）在后台保持运行, 以便接收提醒</translation>
     </message>
 </context>
 <context>
@@ -260,11 +260,11 @@ Buddy（电池搭档）</translation>
     </message>
     <message>
         <source>Alert settings</source>
-        <translation>警报设置</translation>
+        <translation>提醒设置</translation>
     </message>
     <message>
         <source>Alert interval</source>
-        <translation>警报间隔</translation>
+        <translation>提醒间隔</translation>
     </message>
 </context>
 </TS>
